@@ -24,7 +24,7 @@ Burrito Gringo is a competitive player in the local food service market, known f
 ## Documentation
 The full Business Analysis report, including process flowcharts and strategic recommendations, is available in the PDF linked below:
 
-👉 **[View Full Project Analysis (PDF)](t-Link-Here)**
+👉 **[View Full Project Analysis (PDF)](https://github.com/Jahily1/BA-Project-Process-Analysis/blob/main/VFF%20MIS%20Proposal.pdf)**
 
 ---
 *Note: This project was developed as part of a Business Analytics academic framework to demonstrate competency in Business Process Modeling (BPM) and Management Information Systems (MIS).*
